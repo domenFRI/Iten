@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ITEN</string>
+
+    <string name="narocilo1">Naročilo #1</string>
+    <string name="narocilo2">Naročilo #2</string>
+    <string name="narocilo3">Naročilo #3</string>
+    <string name="podrobnosti_narocila1">- burger, Sprite, solata</string>
+    <string name="hello_blank_fragment">tekst tekst tekst</string>
+
+    <string name="dynamic_ime_narocila">Naročilo #%s</string>
+    <string name="dynamic_podrobnosti_narocila">%s</string>
+    <string name="dynamic_oddana_ocena"> </string>
+
+</resources>
